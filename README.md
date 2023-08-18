@@ -1,4 +1,4 @@
-### Hi there 👋
+![Visual Studio EX3 header](/Local/Images/header.jpg)
 
 <!--
 **VisualStudioEX3/VisualStudioEX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
