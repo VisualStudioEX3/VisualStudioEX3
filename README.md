@@ -10,6 +10,10 @@ Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, alias <b>[EX3]</b>, an e
 
 <li>+5 years of experience working as game developer with <b>Unity</b>, <b>XNA</b>, <b>MonoGame</b> and <b>Flash</b> technologies in some spanish game studios like <b>Virtual Toys</b> (<b>Saber Interactive Spain</b> now) or <b>The Game Kitchen</b>, as gameplay programmer and tool programmer mostly, with experience on consoles like <b>XBox 360</b> (XBLIG), <b>XBox One</b>, <b>PS4</b>, <b>Nintendo Switch</b> and <b>PS Vita</b>.</li>
 </ul>
+
+You can see in detail my whole experience, and contact me, in my [Linkedin profile](https://www.linkedin.com/in/ex3tlsa/) (ES).
+
+Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://portfolio.visualstudioex3.com/).
 </div>
 
 <!--
