@@ -3,7 +3,7 @@
 # .NET Developer | Backend Developer | Unity Developer
 
 <div align='justify'>
-Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with 15 years of profesional experience in different stacks, languages and technologies: 
+Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with 15 years of professional experience in different stacks, languages and technologies: 
 
 <ul>
 <li>+7 years of experience working on <b>BBVA</b> and some startups like <b>Voicemod</b>, working on desktop applications and backends, in bank, fintech and multimedia projects.</li>
