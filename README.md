@@ -16,6 +16,20 @@ You can see in detail my whole experience, and contact me, in my [Linkedin profi
 Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://portfolio.visualstudioex3.com/).
 </div>
 
+## Featured Languages, Tools and Technologies
+<div>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET Framework" alt=".NET Framework"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/unity.png" title="Unity" alt="Unity"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/plasticscm.png" title="Plastic SCM" alt="Plastic SCM"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>&nbsp;
+</div>
+
+
 <!--
 **VisualStudioEX3/VisualStudioEX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
