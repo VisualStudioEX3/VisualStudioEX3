@@ -14,7 +14,6 @@ Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an 
 You can see in detail my whole experience, and contact me, in my [Linkedin profile](https://www.linkedin.com/in/ex3tlsa/) (ES).
 
 Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://portfolio.visualstudioex3.com/).
-</div>
 
 ## Featured Languages, Tools and Technologies
 <div>
@@ -29,7 +28,16 @@ Also you can see the game projects that I worked on in my [Professional Game Por
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C"/>&nbsp;
 </div>
 
+ ## About me
 
+ - 🎨 Artist profile from a very young age, later converted to a programmer at the age of 20.
+ - 🎓 I started learn to program by my own motivated on learn how to create my own videogames.
+ - 🛠️ As programmer I enjoy developing my own technology and tools or extend existing ones with custom solutions.
+ - 🎛️ Despite that I'm more backend profile than frontend, I have skills and deep focus on UI/UX in my projects.
+ - 🚀 In my free time I like to work on little experiments, demos and tools for <b>Unity</b> or retro-gamedev technology like <b>DIV Games Studio 2</b>.
+ - 📷 Also, in my free time I enjoy traveling and photography. You can see and follow my work on [Instagram](https://www.instagram.com/ex3_tlsa) and [Flickr](https://www.flickr.com/photos/ex3_tlsa).
+
+</div>
 <!--
 **VisualStudioEX3/VisualStudioEX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
