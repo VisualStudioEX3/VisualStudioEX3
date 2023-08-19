@@ -3,10 +3,10 @@
 # .NET Developer | Backend Developer | Unity Developer
 
 <div align='justify'>
-Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, alias <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with 15 years of profesional experience in different stacks, languages and technologies: 
+Hi! :wave: I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with 15 years of profesional experience in different stacks, languages and technologies: 
 
 <ul>
-<li>+7 years of experience working on <b>BBVA</b> and some startups like <b>Voicemod</b>, working on desktop applications and backend projects, in bank, fintech and multimedia projects.</li>
+<li>+7 years of experience working on <b>BBVA</b> and some startups like <b>Voicemod</b>, working on desktop applications and backends, in bank, fintech and multimedia projects.</li>
 
 <li>+5 years of experience working as game developer with <b>Unity</b>, <b>XNA</b>, <b>MonoGame</b> and <b>Flash</b> technologies in some spanish game studios like <b>Virtual Toys</b> (<b>Saber Interactive Spain</b> now) or <b>The Game Kitchen</b>, as gameplay programmer and tool programmer mostly, with experience on consoles like <b>XBox 360</b> (XBLIG), <b>XBox One</b>, <b>PS4</b>, <b>Nintendo Switch</b> and <b>PS Vita</b>.</li>
 </ul>
