@@ -34,7 +34,7 @@ Also you can see the game projects that I worked on in my [Professional Game Por
  - 🎓 I started learn to program by my own motivated on learn how to create my own videogames.
  - 🛠️ As programmer I enjoy developing my own technology and tools or extend existing ones with custom solutions.
  - 🎛️ Despite that I'm more backend profile than frontend, I have skills and deep focus on UI/UX in my projects.
- - 🚀 In my free time I like to work on little experiments, demos and tools for <b>Unity</b> or retro technology like <b>DIV Games Studio 2</b>.
+ - 🚀 In my free time I like to work on little experiments, demos and tools for <b>Unity</b> or retro technology like [<b>DIV Games Studio 2</b>](/Shared/Images/div_games_studio/README.md).
  - 📷 Also, in my free time I enjoy traveling and photography. You can see and follow my work on [Instagram](https://www.instagram.com/ex3_tlsa) and [Flickr](https://www.flickr.com/photos/ex3_tlsa).
 
 </div>
