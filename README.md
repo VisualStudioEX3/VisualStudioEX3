@@ -28,6 +28,18 @@ Also you can see the game projects that I worked on in my [Professional Game Por
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C (ANSI C89/90)" alt="C (ANSI C89/90)"/>&nbsp;
 </div>
 
+## I have professional experience in the following systems
+<div>
+  <img width="48" src="/Local/Images/Icons/windows.png" title="Windows" alt="Windows"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/xbox.png" title="XBox One" alt="XBox One"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/nintendoswitch.png" title="Nintendo Switch" alt="Nintendo Switch"/>&nbsp;  
+  <img width="48" src="/Local/Images/Icons/playstation.png" title="PlayStation" alt="PlayStation"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/ps4.png" title="PlayStation 4" alt="PlayStation 4"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/psvita.png" title="PlayStation Vita" alt="PlayStation Vita"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/linux.png" title="Linux" alt="Linux"/>&nbsp;
+  <img width="48" src="/Local/Images/Icons/centos.png" title="CentOS" alt="CentOS"/>&nbsp;
+</div>
+
  ## About me
 
  - 🎨 Artist profile since a very young age, later converted to a programmer at the age of 20.
