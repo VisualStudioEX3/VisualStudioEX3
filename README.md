@@ -1,9 +1,9 @@
 ![Visual Studio EX3 header](/Local/Images/header.jpg)
 
-# .NET Developer | Backend Developer | Unity Developer
+# .NET Developer | FullStack Developer | Unity Developer
 
 <div align='justify'>
-Hi! 👋 I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with 15 years of professional experience in different stacks, languages and technologies: 
+Hi! 👋 I'm <b>José Miguel Sánchez Fernández</b>, a.k.a. <b>[EX3]</b>, an experienced <b>.NET Developer</b> from Spain with +15 years of professional experience in different stacks, languages and technologies: 
 
 <ul>
 <li>+7 years of experience working at <b>BBVA</b> and some startups like <b>Voicemod</b>, working on desktop applications and backends, in bank, fintech and multimedia projects.</li>
@@ -21,7 +21,11 @@ Also you can see the game projects that I worked on in my [Professional Game Por
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;  
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Sass" alt="Sass"/>&nbsp;
   <img width="48" src="/Local/Images/Icons/unity.png" title="Unity" alt="Unity"/>&nbsp;
   <img width="48" src="/Local/Images/Icons/plasticscm.png" title="Plastic SCM" alt="Plastic SCM"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
