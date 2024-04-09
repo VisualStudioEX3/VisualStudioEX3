@@ -20,7 +20,7 @@ Also you can see the game projects that I worked on in my [Professional Game Por
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET Framework" alt=".NET Framework"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;  
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor"/>&nbsp;
