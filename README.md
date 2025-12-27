@@ -13,7 +13,7 @@ You can see in detail my whole experience and contact me in my [Linkedin profile
 Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://visualstudioex3.github.io).
 > [!WARNING]
 > [visualstudioex3.com](https://visualstudioex3.com) domain is migrating to this new site, that means that now may redirect to the old Wordpress site or to an error page.
-> While this warning is present, use [visualstudioex3.github.io](https://visualstudioex3.github.io) to access the new web site.
+> While this warning is present, the web site is unavailable. Stay tuned.
 
 ## Featured Languages, Tools and Technologies
 <div>
@@ -25,10 +25,12 @@ Also you can see the game projects that I worked on in my [Professional Game Por
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Sass" alt="Sass"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor"/>&nbsp;
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" title="Jekyll" alt="Jekyll" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>&nbsp;
   <img width="48" src="/Local/Images/Icons/plasticscm.svg" title="Plastic SCM" alt="Plastic SCM"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C (ANSI C89/90)" alt="C ANSI C89 and C90"/>&nbsp;
+  <img width="48" src="/Shared/Images/div_games_studio/div2_icon/div2_icon.svg" title="DIV Games Studio 2" alt="DIV Games Studio 2"/>&nbsp;
 </div>
 
 ## Professional experience in the following systems
