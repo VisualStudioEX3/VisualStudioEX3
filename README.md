@@ -10,10 +10,7 @@ Hi! 👋 I'm **José Miguel Sánchez Fernández**, a.k.a. **[EX3]**, an experien
 
 You can see in detail my whole experience and contact me in my [Linkedin profile](https://www.linkedin.com/in/ex3tlsa/) (ES).
 
-Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://visualstudioex3.github.io).
-> [!WARNING]
-> [visualstudioex3.com](https://visualstudioex3.com) domain is migrating to this new site, that means that now may redirect to the old Wordpress site or to an error page.
-> While this warning is present, the web site is unavailable. Stay tuned.
+Also you can see the game projects that I worked on in my [Professional Game Portfolio](https://visualstudioex3.com/projects/).
 
 ## Featured Languages, Tools and Technologies
 <div>
