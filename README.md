@@ -14,20 +14,24 @@ Also you can see the game projects that I worked on in my [Professional Game Por
 
 ## Featured Languages, Tools and Technologies
 <div>
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET Framework" alt="dotNET Framework, dotNET Core, dotNET 5 and major versions"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="CSharp"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;  
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Sass" alt="Sass"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" title="Jekyll" alt="Jekyll" />
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>&nbsp;
-  <img width="48" src="/Local/Images/Icons/plasticscm.svg" title="Plastic SCM" alt="Plastic SCM"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C (ANSI C89/90)" alt="C ANSI C89 and C90"/>&nbsp;
-  <img width="48" src="/Shared/Images/div_games_studio/div2_icon/div2_icon.svg" title="DIV Games Studio 2" alt="DIV Games Studio 2"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET Framework/.NET Core/.NET 5+" alt="dotNET Framework, dotNET Core, dotNET 5 and major versions"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="CSharp"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"/>&nbsp;  
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Sass" alt="Sass"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" title="Jekyll" alt="Jekyll"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" alt="Unity"/>&nbsp;
+  <img width="46" src="/Local/Images/Icons/plasticscm.svg" title="Plastic SCM" alt="Plastic SCM"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C (ANSI C89/90)" alt="C ANSI C89 and C90"/>&nbsp;
+  <img width="46" src="/Shared/Images/div_games_studio/div2_icon/div2_icon.svg" title="DIV Games Studio 2" alt="DIV Games Studio 2"/>&nbsp;
 </div>
 
 ## Professional experience in the following systems
